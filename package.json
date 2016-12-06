@@ -1,0 +1,26 @@
+{
+  "name": "yiqiguang",
+  "version": "1.0.0",
+  "description": "webpack+react+redux+gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoureal/WRRG.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[B"
+  ],
+  "author": "zhoureal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoureal/WRRG/issues"
+  },
+  "homepage": "https://github.com/zhoureal/WRRG#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "webpack": "^1.13.3"
+  }
+}
